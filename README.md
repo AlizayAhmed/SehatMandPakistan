@@ -22,6 +22,23 @@
 
 ---
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="screenshots/login_signup.png" width="250"/>
+  <img src="screenshots/my_ai.png" width="250"/>
+  <img src="screenshots/doctor_ai.png" width="250"/>
+  <img src="screenshots/hospital_nearme.png" width="250"/>
+</p>
+
+## 🎥 Demo
+
+Watch the project demo here:
+
+▶️ https://drive.google.com/file/d/1F4KuesBC2ei-km3AniptZ6hCN3U9AWfu/view?usp=sharing
+
+---
+
 ## 📖 Overview
 
 **SehatMand Pakistan** is a full-stack AI health assistant that helps users in Pakistan (focused on Karachi) get immediate health guidance, specialist doctor recommendations, and nearby hospital locations — all through a modern Flutter app backed by a Python/Flask AI server.
@@ -467,6 +484,14 @@ The built files will be in `frontend/build/web/` — deploy to Firebase Hosting,
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+---
+
+## 👥 Contributors
+
+- **Alizay Ahmed** — alizay1206@gmail.com
+- **Anmol Kumari** — anmolkumari.0248@gmail.com
+- **Muhammad Alam** — muhammad712005@gmail.com
+- **Muhammad Hassan** — hassanirfan828@gmail.com
 
 ---
 
