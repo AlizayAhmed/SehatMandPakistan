@@ -43,6 +43,16 @@ Watch the project demo here:
 
 ---
 
+## 🌐 Live Demo
+
+Try the application here:
+
+🔗 https://sehatmand.netlify.app/
+
+> Note: Some features such as GPS hospital search may require location permissions in the browser.
+
+---
+
 ## 📖 Overview
 
 **SehatMand Pakistan** is a full-stack AI health assistant that helps users in Pakistan (focused on Karachi) get immediate health guidance, specialist doctor recommendations, and nearby hospital locations — all through a modern Flutter app backed by a Python/Flask AI server.
