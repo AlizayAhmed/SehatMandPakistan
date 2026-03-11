@@ -9,6 +9,10 @@
 <h1 align="center">🏥 SehatMand Pakistan</h1>
 
 <p align="center">
+  <a href="https://sehatmand.netlify.app/"><strong>🚀 Try Live App</strong></a>
+</p>
+
+<p align="center">
   <strong>Your AI-Powered Health Companion — Built for Pakistan</strong><br/>
   Bilingual (English + Roman Urdu) tele-health platform with AI chat, doctor recommendations, and nearby hospital search.
 </p>
